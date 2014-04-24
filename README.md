@@ -1,4 +1,4 @@
 nouse-test
 ==========
 
-nouse! i an testing something
+nouse! i am testing something
